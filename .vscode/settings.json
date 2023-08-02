@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "Makefile2": "makefile",
+        "raspi_undercontrol.h": "c",
+        "ultrasonic.h": "c",
+        "subtask.h": "c"
+    }
+}
